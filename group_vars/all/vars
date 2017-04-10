@@ -5,6 +5,6 @@ admin_user: admin
 admin_pass: "{{ vault_admin_pass }}"
 org: Demo
 loc: Default
-hostgroup: rhel7base
+hostgroup: 
 activationkey: RHDemo
 updatehost: "false"
